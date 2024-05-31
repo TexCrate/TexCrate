@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TexCrate
+- 👀 I’m interested in robotics
+- 📫 How to reach me: tommasociagle.me@gmail.com
+- ⚡ Fun fact: I sail and rockclimb
