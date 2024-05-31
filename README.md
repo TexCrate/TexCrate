@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @TexCrate
-- 👀 I’m interested in robotics
-- 📫 How to reach me: tommasociagle.me@gmail.com
-- ⚡ Fun fact: I sail and rockclimb
+- Italian computer engineer interested in robotics and hardware/software developmemnt
+- Opening this page to post my codes (still working on them....)
